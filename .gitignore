@@ -1,5 +1,5 @@
 /node_modules
 /package-lock.json
-# /.sequelizerc
-# /.babelrc
-# /.env
+/.sequelizerc
+/.babelrc
+/.env
